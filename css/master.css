@@ -1,0 +1,69 @@
+body {
+    background: #ECFDF5;
+} 
+#gen{
+    font-family: Karla;
+    font-size: 40px;
+    font-weight: 800px;
+    line-height: 40px;
+    margin-bottom: 5px;
+    margin-left: 15px;
+    text-align: left;
+    color: #1F2937;
+}
+#raPass{
+    font-family: Inter;
+    font-size: 40px;
+    font-weight: 800px;
+    line-height: 40px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 15px;
+    text-align: left;
+    color: #10B981;
+}
+p{
+    styleName: text-xl/leading-7/font-normal;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400px;
+    line-height: 28px;
+    margin-top: 5px;
+    margin-bottom: 25px;
+    margin-left: 15px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #6B7280;
+}
+button{
+    background: #10B981;
+    color: #ECFDF5;
+    width: Hug 191px;
+    height: Hug 42px;
+    margin-top: 25px;
+    margin-bottom: 20px;
+    margin-left: 15px;
+    padding: 9px 17px 9px 15px;
+    gap: 12px;
+    border: none;
+    border-radius: 6px;   
+    box-shadow: 0px 1px 2px 0px #0000000D;
+}
+
+.rectangle{
+    width: 225px;
+    height: 40px;
+    margin-top: 20px;
+    margin-left: 25px;
+    border: none;
+    border-radius: 6px; 
+    background: #273549;
+    color:#10B981;
+    display: flex;
+    text-align: center;
+    flex-direction:  column;
+    justify-content: space-around;
+    padding: 10px 40px 10px 40px;
+    font-weight: 500;
+    font-family: "Inter", sans-serif;
+}
